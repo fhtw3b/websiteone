@@ -6,7 +6,33 @@
     margin-top: 3%;
     
 }
+.image img {
+  height: auto;
+  width: 50%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: 3%;
+  
+}
   .img1 {
     display: flex;
     justify-content: center;
   }
+  .image {
+    display: flex;
+    justify-content: center;
+  }
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vw;
+  }
+  figure img {
+    width: 100%;
+  }
+
+  figcaption {
+    font: 25px 'Helvetica', sans-serif;
+    font: 500;
+  } 

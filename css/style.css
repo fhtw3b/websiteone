@@ -121,7 +121,7 @@
 .flip-horizontal-top {
   animation: flip-horizontal-top 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) reverse both;
   color: #ef7422;
-  width: 80vw;
+  width: 70vw;
 
 }
 /* ----------------------------------------------
